@@ -9,7 +9,7 @@
 ### USER INTERFACE :             
 ```Command Line Interface```
 ### TECHNOLOGY USED : 
-```Java Programming.```
+```C Programming.```
 
 
  
