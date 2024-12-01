@@ -1,5 +1,5 @@
 # Customized_Virtual_File_System
-  - The aim of this project is to understand the actual implementation of FileSystems in Operating Systems 
+The aim of this project is to understand the actual implementation of FileSystems in Operating Systems 
     and how things work under the hood.
 
 ### PLATFORM REQUIRED :   
